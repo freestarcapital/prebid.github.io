@@ -28,7 +28,6 @@ prebid_member: true
 | `tagId` | required | The tag ID from Freestar. | `"test-pb-leaderboard"` |
 | `siteId` | required | Please reach out to your Freestar Account Manager for more details. | `"example.com"` |
 | `floor` | optional | The minumum CPM (in USD) requred to participate | `0.25` |
-| `keywords` | optional | Publisher-defined key-value string pairs | `{ "key1": "val1", "key2": "val2" }` |
 
 <a name="freestar-banner" />
 
