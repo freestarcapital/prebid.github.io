@@ -26,7 +26,7 @@ prebid_member: true
 | Name | Scope | Description | Example |
 |------+-------+-------------+---------|
 | `tagId` | required | The tag ID from Freestar. | `"test-pb-leaderboard"` |
-| `siteId` | optional | Override the global Freestar site ID, [see here](#freestar-configuration). Please reach out to your Freestar Account Manager for more details. | `"example.com"` |
+| `siteId` | required | Please reach out to your Freestar Account Manager for more details. | `"example.com"` |
 | `floor` | optional | The minumum CPM (in USD) requred to participate | `0.25` |
 | `keywords` | optional | Publisher-defined key-value string pairs | `{ "key1": "val1", "key2": "val2" }` |
 
